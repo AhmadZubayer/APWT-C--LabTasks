@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Advanced Programming in Web Technologies",
+    "section": "C",
+    "capacity": 40,
+    "seats": 38
+  },
+  {
+    "id": 2,
+    "name": "Advanced Programming in .NET",
+    "section": "A",
+    "capacity": 40,
+    "seats": 38
+  }
+]
