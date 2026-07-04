@@ -54,7 +54,7 @@ This folder contains the solution of Lab Task 02.
 ### File Formats Allowed: JPG, JPEG, PDF. Max Size: 10MB
 
 ## Upload Material Course By CourseCode 
-### `DELETE http://localhost:3000/courses/:code/materials`
+### `POST http://localhost:3000/courses/:code/materials`
 ![screenshot/get](screenshots/10.jpg)
 ![screenshot/get](screenshots/11.jpg)
 
