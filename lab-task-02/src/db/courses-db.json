@@ -1,0 +1,23 @@
+[
+  {
+    "code": "CSC111",
+    "name": "Advanced Programming in Web Technologies",
+    "instructor": "Md Khairul Robin Sir",
+    "credits": 3,
+    "description": "Advanced Major course on NestJS, ReactJS, NextJS"
+  },
+  {
+    "code": "CSC112",
+    "name": "Advanced Programming in C++",
+    "instructor": "Saikat Baul Sir",
+    "credits": 3,
+    "description": "Advanced Major course on ASP.NET core"
+  },
+  {
+    "code": "CSC113",
+    "name": "Advanced Programming in Java",
+    "instructor": "Hasib Sir",
+    "credits": 6,
+    "description": "Advanced Major course on Spring Boot"
+  }
+]
