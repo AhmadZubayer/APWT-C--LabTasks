@@ -1,0 +1,30 @@
+[
+  {
+    "code": "CSC111",
+    "name": "Advanced Programming in Web Technologies",
+    "instructor": "Md Khairul Robin Sir",
+    "credits": 3,
+    "description": "Advanced Major course on NestJS, ReactJS, NextJS"
+  },
+  {
+    "code": "CSC113",
+    "name": "Advanced Programming in Java",
+    "instructor": "Hasib Sir",
+    "credits": 6,
+    "description": "Advanced Major course on Spring Boot"
+  },
+  {
+    "code": "CSC114",
+    "name": "Mobile Application Development",
+    "instructor": "Al Amin Sir",
+    "credits": 3,
+    "description": "Kotlin"
+  },
+  {
+    "code": "CSC119",
+    "name": "Machine Learning",
+    "instructor": "Firoz Mridha sir",
+    "credits": 3,
+    "description": "Complete Paper"
+  }
+]
